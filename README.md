@@ -3,7 +3,7 @@
 # Project Overview
 The objective is to estimate the Customer Lifetime Value (CLV) of customers using a dataset of ~8000 transaction records (customer_sales.csv) spanning 2011 to 2014. CLV represents the predicted net profit from a customer over their entire relationship with a business, emphasizing long-term customer value over short-term profits. The project analyzes customer spending patterns by cohort (based on acquisition year), calculates historic CLV, and provides business insights to improve customer retention and acquisition strategies.
 Methodology
-The analysis follows a structured seven-step approach using Python in a Jupyter Notebook (DSPM_HW1_vinayakk.ipynb):
+The analysis follows a structured seven-step approach using Python in a Jupyter Notebook (CLV_Analysis.ipynb):
 
 # Understand the Dataset:
 
